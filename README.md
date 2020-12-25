@@ -5,10 +5,10 @@ The first two animated digivolutions with just html, js, css and svg.
 
 These are the expected results:
 
-Koromon -> Agumon
+**Koromon -> Agumon**
 > ![Koromon](https://github.com/AndresSp/digivolutions/blob/main/examples/koromon.gif)
 
-Agumon -> Greymon
+**Agumon -> Greymon**
 > ![Agumon](https://github.com/AndresSp/digivolutions/blob/main/examples/agumon.gif)
 
 ## Contributing
