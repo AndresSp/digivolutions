@@ -12,17 +12,17 @@ These are the expected results:
 > ![Agumon](https://github.com/AndresSp/digivolutions/blob/main/examples/agumon.gif)
 
 ## RoadMap
-1. Extract characters from video (8 directions)
-2. Convert them to SVG
-3. Create and animate evolution platform
-4. Create and animate letters
-5. Animate SVG rotations
-6. Zoom in/out (At this point I have the first digivolution)
-7. Digivice SVG
-8. Animate rectangules serie
-9. Letters cone
-10. Lighting polygon 
-11. Explotions (At this point I have the second digivolution)
+- [x] Extract characters from video (8 directions)
+- [ ] Convert them to SVG
+- [ ] Create and animate evolution platform
+- [ ] Create and animate letters
+- [ ] Animate SVG rotations
+- [ ] Zoom in/out (At this point I have the first digivolution)
+- [ ] Digivice SVG
+- [ ] Animate rectangules serie
+- [ ] Letters cone
+- [ ] Lighting polygon 
+- [ ] Explotions (At this point I have the second digivolution)
 
 
 ## Contributing
