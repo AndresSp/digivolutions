@@ -13,10 +13,10 @@ These are the expected results:
 
 ## RoadMap
 - [x] Extract characters from video (8 directions)
-- [ ] Convert them to SVG
+- [x] Convert them to SVG
 - [ ] Create and animate evolution platform
 - [ ] Create and animate letters
-- [ ] Animate SVG rotations
+- [x] Animate SVG rotations
 - [ ] Zoom in/out (At this point I have the first digivolution)
 - [ ] Digivice SVG
 - [ ] Animate rectangules serie
